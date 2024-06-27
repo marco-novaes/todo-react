@@ -1,6 +1,6 @@
-# React + Vite
+# Lista de Tarefas Usando React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lista de Tarefas inserir, editar, excluir tarefas e listar crescente e decrescente Utilizando Vite e Reactjs
 
 Currently, two official plugins are available:
 
